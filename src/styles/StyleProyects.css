@@ -1,0 +1,112 @@
+
+/* /////////////////PROYECTS////////////////////////////////////// */
+
+
+.Proyects{
+    background-color: black;
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 2%;
+}
+
+.container_Row{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+}
+
+.container_Proyect{
+    display: flex;
+    flex-direction: column;
+}
+
+.image{
+    background-image: url("https://static.canalapps.com/uploads/2020/08/fondos-de-pantalla-canalapps.jpg");
+    padding: 2em;
+    height: 500px;
+    background-size: cover;
+    border: solid red;
+}
+
+.image2{
+    background-image: url("https://static.canalapps.com/uploads/2020/08/fondos-de-pantalla-canalapps.jpg");
+    padding: 2em;
+    width: 450px;
+    background-size: cover;
+}
+
+.image3{
+    background-image: url("https://static.canalapps.com/uploads/2020/08/fondos-de-pantalla-canalapps.jpg");
+    padding: 2em;
+    width: 450px;
+    background-size: cover;
+}
+
+.title_Proyect{
+    width: 350px;
+}
+.title_Proyect h1{
+    width: 450px;
+}
+
+.parrafo_Proyect{
+    width: 450px;
+
+}
+
+
+
+.modal_Container{
+    flex-direction: column;
+    width: 60%;
+    background-color: black;
+    color: white;
+}
+
+.Container_btn{
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 15px;
+
+}
+
+.btn{
+    padding: .5rem;
+    border:1px solid black;
+    background-color: var(--color-secundary);
+    color: white;
+    text-transform: uppercase;
+}
+
+.image{
+    margin-bottom: 1em;
+}
+
+
+.header {
+    display: flex;
+    text-align: left;
+    justify-content: flex-start;
+    padding-left: 1rem;
+}
+
+
+
+.container_Proyect_2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+.container_Row_2{
+    margin-top: 4%;
+    display: flex;
+    justify-content: center;
+}
+
+.container_Row_2 img{
+    width: 80%;
+    object-fit: cover;
+    position: relative;
+}

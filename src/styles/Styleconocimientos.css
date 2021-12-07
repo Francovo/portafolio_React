@@ -1,0 +1,17 @@
+.contenedor_Conocimientos{
+background-color: #023e46;   
+margin: 0 auto;
+width: 90%;
+}
+
+.contenedor_info_C{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.contenedor_info_C img{
+
+    width: 400px;
+
+}

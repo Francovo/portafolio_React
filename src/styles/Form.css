@@ -1,0 +1,46 @@
+.section_Form{
+    margin: 0 auto;
+    width: 40%;
+    border: solid white;
+    color: white;
+    text-align: center;
+    padding: 1.5rem;
+}
+
+.Form{
+
+}
+
+.input_Form{
+    width: 95%;
+    display: block;
+    margin-bottom: 1em;
+    padding: 1em;
+    border: none;
+    outline: none;
+    
+
+}
+.text_Form{
+    display: block;
+    width: 99%;
+    height: 100px;
+    margin-bottom: 1em;
+}
+
+.btn_Form{
+    border: none;
+    outline: none;
+    background-color: yellow;
+    padding: 1em;
+    color: black;
+}
+
+.h4_Form{
+    font-size: 1.5em;
+
+}
+
+.Parra_Form{
+
+}

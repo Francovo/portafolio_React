@@ -1,0 +1,33 @@
+:root {
+  --color-primary: #047c8c;
+  --color-secundary: #023e46;
+}
+.about {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 1em;
+  width: 90%;
+  margin: 0 auto;
+  color: #fff;
+}
+.info_about {
+  width: 50%;
+}
+.title_about {
+  font-size: 3em;
+}
+.title_about span {
+  display: block;
+}
+.about-image {
+  height: 300px;
+  width: 300px;
+  border: 1px solid #fff;
+}
+
+.about-image img {
+  height: 100%;
+  width: 100%;
+}
